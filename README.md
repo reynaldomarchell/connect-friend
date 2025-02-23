@@ -1,6 +1,6 @@
 # ConnectFriend 👥
 
-![ConnectFriend Logo](/public/assets/connectfriend.svg)
+![ConnectFriend Logo](/public/assets/connectfriend.png)
 
 ConnectFriend is a social networking platform designed to help users connect with like-minded individuals based on shared hobbies and interests. It provides a fun and interactive way to make new friends and expand your social circle.
 
